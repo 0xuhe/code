@@ -16,5 +16,4 @@ return array(
     'PhpSpec' => array($vendorDir . '/phpspec/phpspec/src'),
     'Doctrine\\Instantiator\\' => array($vendorDir . '/doctrine/instantiator/src'),
     'Diff' => array($vendorDir . '/phpspec/php-diff/lib'),
-    '' => array($baseDir . '/src'),
 );
